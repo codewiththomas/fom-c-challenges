@@ -21,9 +21,8 @@ Außerdem soll die Tabelle um eine Kopfzeile und -spalte erweitert werden (gelb 
 ![Erwartete Ausgabe Basic Mode](./images/output_expert.png)
 
 #### Hardcore Mode
-- wandle die Funktion so ab, dass sie nur die Berechnung übernimmt und die Ergebnisse, statt sie auf der Konsole auszugeben, in einer geeigneten Variablen speichert.
-- eine weitere Funktion soll dann diese Variable übernehmen und das Ergebnis auf der Konsole ausgeben.
-- selbst erstellte Funktionen dürfen dabei nur von der main() aufgerufen werden. 
+- wandle die Funktion so ab, dass sie zunächst nur die Berechnung übernimmt und die Ergebnisse, statt sie auf der Konsole auszugeben, in einer geeigneten Variablen speichert.
+- eigentlich würden wir jetzt eine zweite Funktion programmieren, die als Paramter die zuvor gespeicherte Variable bekommt und die Werte ausgibt. Da in C die Übergabe von einigen bestimmten Datentypen komplizierter ist, als das was wir brauchen, ersparen wir uns dass hier. Bitte schreib stattdessen ans Ende Deiner Berechnungsfunktion einen Codeblock, welcher den Inhalt der Variable wieder ausgibt.
 - Du entwickelst in einem sehr großen Team, daher soll auf globale Variablen verzichtet werden (d.h. Variablen dürfen nur innerhalb von Funktionen deklariert werden).
 - da dein Lead-Developer kürzlich von seiner Frau "Isolde Feuerbach" verlassen wurde, ist ab sofort das Schlüsselwort "if" tabu, da ihn dieses zu sehr an die Initialen der Verflossenen erinnert. Schreibe Deine Verzweigungen entsprechend um.
 
