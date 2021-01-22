@@ -1,4 +1,4 @@
-[<<Zurück zur Übersicht](../)
+[<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
 
 ## Challenge 01 - Kleines 1x1
 
@@ -31,4 +31,4 @@ Da Du in einem großen Team entwickelst, soll auf globale Variablen verzichtet w
 
 Die Lösung wird jeweils am Folgetag der Veröffentlichung der Aufgabe im Ordner solution eingestellt.
 
-[<<Zurück zur Übersicht](../)
+[<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
