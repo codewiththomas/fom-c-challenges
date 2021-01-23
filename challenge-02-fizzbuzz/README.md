@@ -1,13 +1,13 @@
-[<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
+[<<ZurÃ¼ck zur Ãœbersicht](https://github.com/codewiththomas/c-challenges)
 
 ## Challenge 02 - FizzBuzz
 
 ### Aufgabe 
 
 #### Basic Mode
-Hier mal ein Klassiker für Programmiereinsteiger. Unser Programm soll die Zahlen 1 bis 100 hochzählen. Ist die Zahl durch 3 teilbar, soll "fizz" ausgegeben. 
+Hier mal ein Klassiker fÃ¼r Programmiereinsteiger. Unser Programm soll die Zahlen 1 bis 100 hochzÃ¤hlen. Ist die Zahl durch 3 teilbar, soll "fizz" ausgegeben. 
 Bei Teilbarkeit durch 5 soll "buzz" ausgegeben werden. Ist die Zahl sowohl durch 3 als auch durch 15 teilbar sein, wird entsprechend "fizzbuzz" als Ausgabe 
-erwartet. In allen anderen Fällen soll die Zahl selbst ausgegeben werden.
+erwartet. In allen anderen FÃ¤llen soll die Zahl selbst ausgegeben werden.
 
 Erwartete Ausgabe:
 1
@@ -31,7 +31,7 @@ fizzbuzz
 
 
 #### Advanced Mode
-Lagere Deine Fizzbuzz-Logik in eine eigene Funktion aus. Diese soll durch in der Schleife, welche sich in der main()-Methode befinden, für
+Lagere Deine Fizzbuzz-Logik in eine eigene Funktion aus. Diese soll durch in der Schleife, welche sich in der main()-Methode befinden, fÃ¼r
 jede Zahl aufgerufen werden
 
 void fizzBuzz(int number)
@@ -51,8 +51,8 @@ int getRest(int dividend, int divisor)
 
 
 #### Hardcore Mode
-Im Debugmodus soll immer die Zahl und dahinter ggf. die Wörter "fizz", "buzz", "fizzbuzz" ausgegeben werden. Definiere dabei eine Konstante 
-DEBUG als Präprozessordirektive. Ohne DEBUG-Mode soll die Ausgabe unverändert zum Basic-Mode aussehen.
+Im Debugmodus soll immer die Zahl und dahinter ggf. die WÃ¶rter "fizz", "buzz", "fizzbuzz" ausgegeben werden. Definiere dabei eine Konstante 
+DEBUG als PrÃ¤prozessordirektive. Ohne DEBUG-Mode soll die Ausgabe unverÃ¤ndert zum Basic-Mode aussehen.
 
 Erwartete Ausgabe im DEBUG-Mode:
 1
@@ -71,12 +71,11 @@ Erwartete Ausgabe im DEBUG-Mode:
 14
 15 fizzbuzz
 16
-17
 ...
 
 
-### Lösung
+### LÃ¶sung
 
-Die Lösung wird jeweils am Folgetag der Veröffentlichung der Aufgabe im Ordner solution eingestellt.
+Die LÃ¶sung wird jeweils am Folgetag der VerÃ¶ffentlichung der Aufgabe im Ordner solution eingestellt.
 
-[<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
+[<<ZurÃ¼ck zur Ãœbersicht](https://github.com/codewiththomas/c-challenges)
