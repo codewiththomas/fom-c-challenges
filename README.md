@@ -7,4 +7,4 @@ Um einen gemeinsamen Compiler-Standard zu verwenden, wird der Online-Compiler vo
 ## Aufgaben
 
 - 22.01.2021 18:00: [Challenge 1 - Kleines 1x1 ist online](./challenge-01-kleines-1-mal-1)
-- 23.01.2021 18:00: [Challenge 2 - FizzBuzz ist online](./challenge-01-fizzbuzz)
+- 23.01.2021 18:00: [Challenge 2 - FizzBuzz ist online](./challenge-02-fizzbuzz)
