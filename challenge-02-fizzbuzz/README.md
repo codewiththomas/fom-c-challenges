@@ -34,20 +34,20 @@ fizzbuzz
 Lagere Deine Fizzbuzz-Logik in eine eigene Funktion aus. Diese soll durch in der Schleife, welche sich in der main()-Methode befinden, für
 jede Zahl aufgerufen werden
 
-void fizzBuzz(int number)
-{
+    void fizzBuzz(int number)
+    {
 	//TODO: your implementation
-}
+    }
 
 
 #### Expert Mode 
 Schreibe eine Funktion, welche den Rest bei der Division von ganzen Zahlen ermittelt. In dieser darf der Modulo-Operator nicht verwendet werden - 
 findest Du einen eigenen Ansatz?
 
-int getRest(int dividend, int divisor)
-{
+    int getRest(int dividend, int divisor)
+    {
 	// TODO: your implementation
-}
+    }
 
 
 #### Hardcore Mode
