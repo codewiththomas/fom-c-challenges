@@ -9,7 +9,7 @@ Hier mal ein Klassiker für Programmiereinsteiger. Unser Programm soll die Zahle
 Bei Teilbarkeit durch 5 soll "buzz" ausgegeben werden. Ist die Zahl sowohl durch 3 als auch durch 15 teilbar sein, wird entsprechend "fizzbuzz" als Ausgabe 
 erwartet. In allen anderen Fällen soll die Zahl selbst ausgegeben werden.
 
-Erwartete Ausgabe:
+Erwartete Ausgabe (untereinander):
     1
     2
     fizz
