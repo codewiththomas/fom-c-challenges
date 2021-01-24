@@ -9,25 +9,7 @@ Hier mal ein Klassiker für Programmiereinsteiger. Unser Programm soll die Zahle
 Bei Teilbarkeit durch 5 soll "buzz" ausgegeben werden. Ist die Zahl sowohl durch 3 als auch durch 15 teilbar sein, wird entsprechend "fizzbuzz" als Ausgabe 
 erwartet. In allen anderen Fällen soll die Zahl selbst ausgegeben werden.
 
-Erwartete Ausgabe (untereinander):
-    1
-    2
-    fizz
-    4
-    buzz
-    fizz
-    7
-    8
-    fizz
-    10
-    11
-    fizz
-    13
-    14
-    fizzbuzz
-    16
-    17
-    ...
+![Erwartete Ausgabe Basic Mode](./images/output_basic.png)
 
 
 #### Advanced Mode
@@ -54,24 +36,7 @@ findest Du einen eigenen Ansatz?
 Im Debugmodus soll immer die Zahl und dahinter ggf. die Wörter "fizz", "buzz", "fizzbuzz" ausgegeben werden. Definiere dabei eine Konstante 
 DEBUG als Präprozessordirektive. Ohne DEBUG-Mode soll die Ausgabe unverändert zum Basic-Mode aussehen.
 
-Erwartete Ausgabe im DEBUG-Mode:
-    1
-    2
-    3 fizz
-    4
-    5 buzz
-    6 fizz
-    7
-    8
-    9 fizz
-    10
-    11
-    12 fizz
-    13
-    14
-    15 fizzbuzz
-    16
-    ...
+![Erwartete Ausgabe Hardcore Mode](./images/output_hardcore.png)
 
 
 ### Lösung
