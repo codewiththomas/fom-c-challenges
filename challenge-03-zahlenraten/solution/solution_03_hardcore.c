@@ -22,7 +22,7 @@ int main()
     int myNumber = randomNumber(maxNumber);
 
     int maxTries = getMaxTries(maxNumber);
-    
+
     int guessedNumber;
 
     printf("Vielen Dank. Du bekommst %d Versuche.\n", maxTries);
