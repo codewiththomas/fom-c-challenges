@@ -1,4 +1,4 @@
-﻿[<<Zur�ck zur �bersicht](https://github.com/codewiththomas/c-challenges)
+﻿[<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
 
 ## Challenge 04 - Treppensteigen
 
@@ -29,8 +29,8 @@ Tipp: Das Zauberwort ist Rekursion
 Beispiel für 3 Stufen (3 mögliche Kombinationen)
 ![Beispiel für 3 Stufen (3 mögliche Kombinationen)](./images/hint.png)
 
-### L�sung
+### Lösung
 
-Die L�sung wird jeweils am Folgetag der Ver�ffentlichung der Aufgabe im Ordner solution eingestellt.
+Die Lösung wird jeweils am Folgetag der Veröffentlichung der Aufgabe im Ordner solution eingestellt.
 
-[<<Zur�ck zur �bersicht](https://github.com/codewiththomas/c-challenges)
+[<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
