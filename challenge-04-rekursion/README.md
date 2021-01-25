@@ -23,7 +23,7 @@ oder wir können 2 Stufen nehmen + alle verbleibenden Kombinationen für die dann 
 
 Tipp: Das Zauberwort ist Rekursion
 
-![Erwartete Ausgabe Basic Mode](./images/hint_advanced.png)
+![Erwartete Ausgabe Basic Mode](./images/hint.png)
 
 ### Lösung
 
