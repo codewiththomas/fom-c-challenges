@@ -6,9 +6,11 @@
 
 Heute gibt es mal etwas kniffliges, aber eigentlich doch ganz einfaches :P
 
+Du hast eine Treppe mit n Stufen vor Dir. Du kannst jeweils bei einem Schritt 1 Stufe nehmen, oder mit einem Schritt direkt 2 Stufen nehmen. Wie viele mögliche Kombinationen gibt es, wie Du die Treppe herauf kommen könntest?
+
 #### Basic Mode
-Implementiere eine Methode, welche von der main aus aufgerufen werden kann. Diese soll den Namen calculateCombinations haben und als
-Parameter die Anzahl der Stufen erbegeben bekommen. Rückgabewert soll die Anzahl der möglichen Kombinationen sein.  
+Implementiere eine Methode, welche von der main() aus aufgerufen werden kann. Diese soll den Namen calculateCombinations(...) haben und als
+Parameter die Anzahl der Stufen einer Treppe überbegeben bekommen. Rückgabewert soll die Anzahl der möglichen Kombinationen sein.  
 
 Implementiere nun erstmal die Rückgabewerte für eine kleine Anzahl von Stufen.
 -> bei 0 Stufen oder einer negativen Zahl soll 0 zurückgegegeben werden
