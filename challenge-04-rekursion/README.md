@@ -25,6 +25,8 @@ oder wir können 2 Stufen nehmen + alle verbleibenden Kombinationen für die dann 
 
 Tipp: Das Zauberwort ist Rekursion
 
+
+Beispiel für 3 Studen (3 mögliche Kombinationen)
 ![Erwartete Ausgabe Basic Mode](./images/hint.png)
 
 ### Lösung
