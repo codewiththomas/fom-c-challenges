@@ -29,6 +29,8 @@ Tipp: Das Zauberwort ist Rekursion
 Beispiel für 3 Stufen (3 mögliche Kombinationen)
 ![Beispiel für 3 Stufen (3 mögliche Kombinationen)](./images/hint.png)
 
+![So müsste es aussehen](./images/hint2.png)
+
 ### Lösung
 
 Die Lösung wird jeweils am Folgetag der Veröffentlichung der Aufgabe im Ordner solution eingestellt.
