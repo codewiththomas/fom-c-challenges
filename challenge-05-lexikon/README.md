@@ -1,6 +1,6 @@
 [<<Zurück zur Übersicht](https://github.com/codewiththomas/c-challenges)
 
-## Challenge 04 - Lexikon
+## Challenge 05 - Lexikon
 
 ### Aufgabe 
 
@@ -8,12 +8,13 @@
 Die letzten Challenges hatten alle was mit Zahlen zu tun. Daher wollen wir uns mal ein bisschen mehr um Wörter 
 kümmern. Da wir ohnehin für eine Prüfung lernen, bietet sich doch ein kleines Nachschlagewerk an.
 
-Schreibe ein Programm, welches folgende Ausgabe erzeugt. Die Themenübersicht soll dabei dynamisch sein, d.h.
-Dein Code sollte die Ausgabe flexibel auf eine Themenanzahl von 0 - 255 gestalten (bei 0 gibt es kein Thema).
+Schreibe ein Programm, welches folgende Ausgabe erzeugt. 
 
 Erwartete Ausgabe:
-
 ![Erwartete Ausgabe Basic Mode](./images/output_basic.png)
+
+Die Themenübersicht soll dabei dynamisch sein, d.h.
+Dein Code sollte die Ausgabe flexibel auf eine Themenanzahl von 0 - 255 gestalten (bei 0 gibt es kein Thema).
 
 Nun soll der Nutzer gefragt werden, welches Thema ihn interessiert. Bei der Eingabe von 0 soll das Programm beendet 
 werden. Bei Auswahl einer Zahl soll angezeigt werden "ThemaX wurde gewählt". Versuche das Ganze mit einer 
