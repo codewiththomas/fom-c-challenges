@@ -10,4 +10,4 @@ Um einen gemeinsamen Compiler-Standard zu verwenden, wird der Online-Compiler vo
 - 23.01.2021: [Challenge 02 - FizzBuzz ist online](./challenge-02-fizzbuzz) ([Lösung Quellcode](./challenge-02-fizzbuzz/solution) | [Lösung als Video](https://youtu.be/Wgvk5R5FiXU)) 
 - 24.01.2021: [Challenge 03 - Zahlenraten ist online](./challenge-03-zahlenraten) ([Lösung Quellcode](./challenge-03-zahlenraten/solution) | [Lösung als Video](https://youtu.be/5uu3ZG3Nm7c)) 
 - 25.01.2021: [Challenge 04 - Treppensteigen ist online](./challenge-04-treppensteigen) ([Lösung Quellcode](./challenge-04-treppensteigen/solution) | [Lösung als Video](https://youtu.be/PP1SttdJc-M)) 
-- 26.01.2021: [Challenge 05 - Lexikon](./challenge-05-lexikon)
+- 26.01.2021: [Challenge 05 - Lexikon](./challenge-05-lexikon) ([Lösung Quellcode](./challenge-05-lexikon/solution)) 
