@@ -6,7 +6,7 @@
 
 #### Basic Mode
 Hier mal ein Klassiker für Programmiereinsteiger. Unser Programm soll die Zahlen 1 bis 100 hochzählen. Ist die Zahl durch 3 teilbar, soll "fizz" ausgegeben. 
-Bei Teilbarkeit durch 5 soll "buzz" ausgegeben werden. Ist die Zahl sowohl durch 3 als auch durch 15 teilbar sein, wird entsprechend "fizzbuzz" als Ausgabe 
+Bei Teilbarkeit durch 5 soll "buzz" ausgegeben werden. Ist die Zahl sowohl durch 3 als auch durch 5 teilbar, wird entsprechend "fizzbuzz" als Ausgabe 
 erwartet. In allen anderen Fällen soll die Zahl selbst ausgegeben werden.
 
 ![Erwartete Ausgabe Basic Mode](./images/output_basic.png)
